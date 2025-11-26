@@ -53,3 +53,6 @@ Install dependencies for frontend:
 
 cd ../client
 npm install
+
+LIVE URL OF THE SITE.
+https://edubri.netlify.app/
